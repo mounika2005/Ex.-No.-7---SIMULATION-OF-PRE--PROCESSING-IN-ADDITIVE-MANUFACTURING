@@ -61,30 +61,30 @@ Vertical surfaces generally have better surface finish compared to horizontal su
 # part with support :
 A "part with support" in the preprocessing stage of 3D printing refers to a 3D model that requires the addition of support structures to ensure successful and accurate printing of certain features
 
-# part without support :
+## part without support :
 A "part without support" in the preprocessing stage of 3D printing refers to a 3D model that does not require the addition of support structures during the printing process. In other words, the design of the part is such that all features can be printed without the need for additional support material.
 ## SLICING:
 ![Screenshot 2023-11-29 153436](https://github.com/mounika2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/ac418211-99b2-45ff-8735-7dd4b18d62d7)
-# Uniform slicing :
+## Uniform slicing :
 also known as uniform layer height or uniform layer thickness, refers to a preprocessing technique in 3D printing where the model is sliced into layers of consistent thickness throughout the entire object
 
-# Adaptive slicing :
+## Adaptive slicing :
 It is a preprocessing technique in 3D printing where the layer thickness varies throughout the object based on the geometry and level of detail required. Instead of using a uniform layer thickness, adaptive slicing adjusts the layer thickness dynamically to optimize the print quality and printing time
 
-# Curved layer slicing :
+## Curved layer slicing :
 It is also known as adaptive layer height or variable layer height, is a preprocessing technique in 3D printing where the layer thickness varies along curved or sloping surfaces of a 3D model.
 ## PATH PLANNING:
 ![Screenshot 2023-11-29 153445](https://github.com/mounika2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/2515e7d9-30a5-4d62-95e3-60d6ea8a406a)
-# Fractional path planning :
+## Fractional path planning :
 It is also known as fractional layering or non-integer layer heights, is a technique used in 3D printing to achieve finer resolution and improve the surface quality of printed objects
 
-# Zigzag path planning :
+## Zigzag path planning :
 It is a technique used in 3D printing to optimize the movement of the print head or extruder during the printing process. Instead of following a straight path for each layer, zigzag path planning involves printing each layer in a zigzag pattern, alternating the direction of movement.
 
-# Contour offset path :
+## Contour offset path :
 It is lso known as offsetting or offsetting contours, is a preprocessing technique used in 3D printing to create multiple concentric copies of a 2D or 3D shape with increasing or decreasing dimensions
 
-# Grid path planning :
+## Grid path planning :
 It is also known as grid infill or grid pattern, is a technique used in 3D printing to fill the interior of a 3D model with a grid-like pattern
 
 
